@@ -5,6 +5,6 @@ module test_code;
 	begin
 	  a=$random;
 	  $display("value of a is %d",a);
-
+	end
 
 endmodule
